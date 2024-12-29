@@ -1,0 +1,14 @@
+.add {
+        color: rgb(231, 23, 130);
+        margin: 10px;
+        padding: 10px;
+        background-color: pink;
+}
+
+.btn {
+        background-color: rgb(231, 23, 130);
+        border-color: brown;
+}
+#total{
+        color: rgb(101, 101, 101);
+}
